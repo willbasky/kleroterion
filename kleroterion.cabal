@@ -6,7 +6,7 @@ description:         sortition for res public
 homepage:            https://github.com/willbasky/kleroterion
 bug-reports:         https://github.com/willbasky/kleroterion/issues
 license:             MIT
-license-file:        LICENSE
+license-file:        UNLICENSE
 author:              willbasky
 maintainer:          nomail
 copyright:           2018 willbasky
